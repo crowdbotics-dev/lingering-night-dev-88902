@@ -1,0 +1,3 @@
+rootProject.name = 'lingering_night_dev_88902'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
